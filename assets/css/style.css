@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #e76668;
+  color: #3A58A0;
   text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #e65d5f;
+  background: #163783;
   color: #fff;
 }
 
@@ -358,7 +358,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/grey-marble-column-details-building.jpg") top center no-repeat;
+  background: url("../img/vote-elect-decision-choice-political-registration.jpg") top center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 82px;
@@ -1052,7 +1052,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #fd7e4b;
+  color: #3A58A0;
   font-size: 26px;
 }
 
@@ -1082,13 +1082,13 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #3A58A0;
   opacity: 1;
-  border: 1px solid #fd7e4b;
+  border: 1px solid #8faffa;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #fd7e4b;
+  background-color: #0a1f52;
 }
 
 /*--------------------------------------------------------------
